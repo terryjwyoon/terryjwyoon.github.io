@@ -106,7 +106,7 @@ analytics:
 #==============================================================================
 author:
   name             : "Terry Yoon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg"
   bio              : "Embedded System Engineer"
   location         : "Seoul, South Korea"
   email            : "terryjwyoon@gmail.com"
