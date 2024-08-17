@@ -15,6 +15,12 @@ docs:
     - title: "Tag"
       url: /Tags/
   
+counts:
+  - title: " "
+    use: true
+  - title: "Tag"
+    use: false
+
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

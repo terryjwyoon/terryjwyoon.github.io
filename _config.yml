@@ -106,7 +106,7 @@ analytics:
 #==============================================================================
 author:
   name             : "Terry Yoon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg"
   bio              : "Embedded System Engineer"
   location         : "Seoul, South Korea"
   email            : "terryjwyoon@gmail.com"
@@ -120,6 +120,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/terryjwyoon"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@poinsystemlab2559"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
@@ -132,6 +135,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/terryjwyoon"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@poinsystemlab2559"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url:
@@ -284,4 +290,7 @@ defaults:
       toc_sticky: true
       toc_label: Table of Contents
       toc_icon: "fa-solid fa-bars" # https://fontawesome.com/search?o=r&m=free
-# date_format: "%Y-%m-%d"
+      sidebar_main: true
+      sidebar:
+        nav: "counts"
+      # date_format: "%Y-%m-%d"
