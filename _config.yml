@@ -290,6 +290,7 @@ defaults:
       toc_sticky: true
       toc_label: Table of Contents
       toc_icon: "fa-solid fa-bars" # https://fontawesome.com/search?o=r&m=free
+      sidebar_main: true
       sidebar:
         nav: "counts"
       # date_format: "%Y-%m-%d"
