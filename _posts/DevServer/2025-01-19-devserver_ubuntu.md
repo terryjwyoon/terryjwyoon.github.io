@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[DevServer] Ubuntu 부팅디스크 만들기기"
+title:  "[DevServer] Ubuntu 부팅디스크 만들기"
 categories: 
   - linux
 tag: [linux, android]
