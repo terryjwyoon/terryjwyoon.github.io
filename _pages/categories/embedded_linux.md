@@ -1,5 +1,4 @@
 ---
----
 title: "Embedded Linux"
 layout: archive
 permalink: categories/embedded_linux

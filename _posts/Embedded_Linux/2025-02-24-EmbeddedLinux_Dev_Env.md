@@ -2,6 +2,7 @@
 layout: single
 title:  "[Linux System] 임베디드 리눅스 개발 환경 구축"
 categories: 
+  - embedded
   - embedded_linux
 tag: [linux, EmbeddedLinux]
 author_profile: false
