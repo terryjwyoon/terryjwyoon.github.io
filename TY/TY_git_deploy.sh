@@ -1,6 +1,8 @@
 #!/bin/bash
 set -e
 
+cd ..
+
 # Checkout master branch
 git checkout master
 
